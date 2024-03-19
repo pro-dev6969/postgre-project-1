@@ -1,0 +1,17 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Postgre practice ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Vedant Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "@types/pg": "^8.11.3",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.3"
+  }
+}
